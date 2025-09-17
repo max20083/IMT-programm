@@ -3,7 +3,7 @@ from tkinter import *
 def clicked():
     rost_get = rost_input.get()
     mas_get = mas_input.get()
-    if rost_get!= float or mas_get != float:
+    if rost_get==str or mas_get==str:
         otv.configure(text='Введите в поле ввода число)')
     else:
      r = (float(rost_get))/100
