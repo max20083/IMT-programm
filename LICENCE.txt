@@ -1,0 +1,28 @@
+Copyright (c) [2008] max20083
+
+Русский язык :
+
+Все права защищены.
+
+Настоящим любым лицо запрещается копировать, модифицировать, распространять,
+публиковать, сублицировать и/или иным образом использовать исходный код
+и исполняемые файлы данного программного обеспечения без прямого
+письменного разрешения правообладателя.
+
+ИСКЛЮЧЕНИЯ ИЗ ДАННОГО ЗАПРЕТА МОГУТ БЫТЬ ПРЕДОСТАВЛЕНЫ ТОЛЬКО ПРАВООБЛАДАТЕЛЕМ
+В ОТДЕЛЬНО ВЫДАННОМ НА ТО РАЗРЕШЕНИИ.
+
+ДАННОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ,
+ЯВНО ВЫРАЖЕННЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ.
+
+English :
+
+Copyright (c) [2008] max20083
+
+All Rights Reserved.
+
+No part of this software, including source code and executable files, may be copied, modified, distributed, published, sublicensed, and/or otherwise used without the express written permission of the copyright holder.
+
+EXCEPTIONS TO THIS PROHIBITION MAY BE GRANTED SOLELY BY THE COPYRIGHT HOLDER IN A SEPARATELY ISSUED PERMISSION.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
